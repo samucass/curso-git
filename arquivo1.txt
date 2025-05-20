@@ -1,3 +1,6 @@
 arquivo1
+<<<<<<< HEAD
 
 alterando com rebase
+=======
+>>>>>>> 5c862aefb0cdbdd0fe0619178001792c71d283fe
